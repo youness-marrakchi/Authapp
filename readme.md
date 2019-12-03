@@ -4,7 +4,7 @@
 1. This is a laravel authentication app .
     - Login / signup
     - creating a post
-    - Ediing a post
+    - Editing a post
     - Displaying a post
     - Deleting a post
     - Intercative dashboard (-pending-)
